@@ -8,7 +8,7 @@ This project develops an AI-based triage system that classifies patients into ap
 ## ⚙️ Key Details
 
 ### Dataset
-- **Source:** Harvard Dataverse  
+- **Source:** [Harvard Dataverse — doi:10.7910/DVN/7SOYC7](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/7SOYC7)
 - **Size:** 2,205 patient records with 67 features  
 - **Target:** `Triage Level` (3 urgency levels)
 
@@ -31,7 +31,19 @@ Random Forest outperformed other models with:
 - Jupyter Notebook
 
 ## Contributors
-- Abdulrahman Albusaad
-- Ali Assuleiteen
-- Mahdi Alzakari
-- Waeeil Alessa
+| Name           | Contributions                                                                 |
+|------------------------|-------------------------------------------------------------------------------|
+| Abdulrhman Albusaad    | Exploratory Data Analysis (EDA)                                             |
+|                        | Handling missing data and data quality issues                               |
+|                        | Support Vector Machines (SVM)                                               |
+| Ali Assuleiteen        | Exploratory Data Analysis (EDA)                                             |
+|                        | Dealing with different value types                                          |
+|                        | Feature Engineering                                                          |
+|                        | Gaussian Naive Bayes                                                        |
+| Mahdi Alzakari         | Exploratory Data Analysis (EDA)                                             |
+|                        | Feature Engineering                                                          |
+|                        | Logistic Regression                                                         |
+| Waeeil Alessa          | Exploratory Data Analysis (EDA)                                             |
+|                        | Handling missing data and data quality issues                               |
+|                        | Hypotheses Formulation                                                      |
+|                        | Random Forest                                                               |
